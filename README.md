@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Yadav</h1>
-<h3 align="center">Passionate Web Developer | Aspiring Full-Stack Developer | Learning & Building the Web of Tomorrowa</h3>
+<h3 align="center">Passionate Web Developer | Aspiring Full-Stack Developer | Learning & Building the Web of Tomorrow</h3>
 
 - 🌱 I’m currently learning **Sass,javascript**
 
