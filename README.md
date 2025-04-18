@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Sass,javascript**
 
-- 💬 Ask me about **css,tailwind**
+- 💬 Ask me about **Reactjs,nextjs**
 
 - 📫 How to reach me **akshayyadav12356@gmail.com**
 
