@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshay Yadav</h1>
 <h3 align="center">Passionate Web Developer | Aspiring Full-Stack Developer | Learning & Building the Web of Tomorrow</h3>
 
-- 🌱 I’m currently learning **Sass,javascript**
+- 🌱 I’m currently learning **Nextjs and TypeScript**
 
-- 💬 Ask me about **Reactjs,nextjs**
+- 💬 Ask me about **MERN Development**
 
 - 📫 How to reach me **akshayyadav12356@gmail.com**
 
