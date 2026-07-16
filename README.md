@@ -48,8 +48,6 @@ I'm a final-year B.Tech Computer Science student who builds full-stack web appli
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akshay448591&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay448591&theme=dark&hide_border=true" width="48%" alt="GitHub Streak"/>
 
 </div>
