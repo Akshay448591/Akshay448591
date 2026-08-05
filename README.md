@@ -42,16 +42,6 @@ I'm a final-year B.Tech Computer Science student who builds full-stack web appli
 **AI/ML & Data:** NumPy • Pandas • Matplotlib • Seaborn • Model Training
 
 **Tools & Deployment:** Git • GitHub • Render
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay448591&theme=dark&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-</div>
-
 ---
 
 ## 📫 Connect With Me
