@@ -58,6 +58,4 @@ I'm a final-year B.Tech Computer Science student who builds full-stack web appli
 
 ### ⭐ Thanks for stopping by — always building, always learning!
 
-<img src="https://raw.githubusercontent.com/Akshay448591/Akshay448591/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
-
 </div>
